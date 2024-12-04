@@ -29,7 +29,7 @@ To get started with the NFT Polygon Project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/NFT_POLYGON.git
+    git clone https://github.com/codebasebo/NFT_POLYGON
     cd NFT_POLYGON
     ```
 
